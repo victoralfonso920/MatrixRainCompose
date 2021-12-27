@@ -13,3 +13,13 @@ project from Android Studio following the steps
 Preview
 -----------
 ![Screenshot](screenshot/matrix.gif) 
+
+Credit to 
+
+ApKelly from your Gist
+
+https://gist.github.com/apkelly/c27bd3844f83ce7d3ecfe9804a613d84
+
+And DevExperto for your videotutorial
+
+https://www.youtube.com/watch?v=vUvjFnOoxcw
