@@ -12,3 +12,4 @@ project from Android Studio following the steps
 
 Preview
 -----------
+![Screenshot](screenshot/matrix.gif) 
